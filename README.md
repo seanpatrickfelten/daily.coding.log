@@ -10,4 +10,4 @@ I am very excited about the materials I am learning in the Free Code Camp.
 
 <h2>Day 02</h2>
 
-Today, I learned the rest of the refresher material on HTML codes by learning how to add a submit button to a form, using HTML5 to required a field, radio buttons, adding in a set of checkboxes, adding in check radio buttons and checkboxes by default, using a div element, and the head and body of an HTML document. In Day 03, I will be learning CSS.
+Today, I learned the rest of the refresher material on HTML codes by learning how to add a submit button to a form, using HTML5 to require a field, radio buttons, adding in a set of checkboxes, adding in check radio buttons and checkboxes by default, using a div element, and the head and body of an HTML document. In Day 03, I will be learning CSS.
