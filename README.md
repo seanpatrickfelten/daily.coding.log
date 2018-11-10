@@ -17,6 +17,10 @@ Today, I learned the rest of the refresher material on HTML codes by learning ho
 
 I am now learning CSS (Cascading Style Sheets). This involves CSS and CSS elements. So far, I learned how to set an id of an element, changed the background color of a form, adjusting the padding and margin of an element, and adjusting a negative margin. #100DaysOfCode
 
-<h2>Day04</h2>
+<h2>Day 04</h2>
 
 I learned various aspects of CSS. I learned to style the HTML body element, prioritize one style over another, override styles in CSS, declaration with inlline styles, using hex code for colors, using RGB values, and using a custom CSS variable. #100DaysOfCode
+
+<h2>Day 05</h2>
+
+I learned the rest of the aspects of CSS and now I am learning an introduction to the applied visual design challenges. #100DaysOfCode
