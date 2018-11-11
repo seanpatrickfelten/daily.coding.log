@@ -27,4 +27,4 @@ I learned the rest of the aspects of CSS and now I am learning an introduction t
 
 <h2>Day 06</h2>
 
-I learned to create visual balance (text-align), setting the width, adjusting the height of an element, making the text bold with the strong tag, using u tag (underline text)/em tag (italicize text)/s (strikethrough text)/using hr (horizontal lines), adjusting the background-color property of text, and decreasing the opacity of an element.
+I learned to create visual balance (text-align), setting the width, adjusting the height of an element, making the text bold with the strong tag, using u tag (underline text)/em tag (italicize text)/s (strikethrough text)/using hr (horizontal lines), adjusting the background-color property of text, and decreasing the opacity of an element. #100DaysOfCode
