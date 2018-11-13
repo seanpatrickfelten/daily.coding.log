@@ -32,3 +32,7 @@ I learned to create visual balance (text-align), setting the width, adjusting th
 <h2>Day 07</h2>
 
 I learned about z-index, centering an element with margin property, complementary colors, tertiary colors, creating a gradual CSS linear gradient, using a CSS linear gradient to create a striped element, creating a texture by adding a subtle pattern as a background image, using the CSS transform scale property to change the size of an element, using the CSS transform scale property to scale property to scale an element on hover, using the CSS transform property skewX to skew an element along the x-axis, using the CSS transform property skewY to skew an element along the y-axis, and creating a graphic using CSS. #100DaysOfCode
+
+<h2>Day 08</h2>
+
+I learned how to create a more complex shape using CSS and HTML, how the CSS @keyframes and animation properties work, button color changes when mouse is hovering over it, creating movement using CSS animation, fading an element from left to right, and animating elements continually using an infinite animation count. #100DaysOfCode
