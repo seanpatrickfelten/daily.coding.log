@@ -36,3 +36,7 @@ I learned about z-index, centering an element with margin property, complementar
 <h2>Day 08</h2>
 
 I learned how to create a more complex shape using CSS and HTML, how the CSS @keyframes and animation properties work, button color changes when mouse is hovering over it, creating movement using CSS animation, fading an element from left to right, and animating elements continually using an infinite animation count. #100DaysOfCode
+
+<h2>Day 09</h2>
+
+I learned how bezier curves work, used a bezier curve to move a graphic, and made motion more natural using a bezier curve. The Visual Design Challenges are complete. Now, I am working on Applied Accessibility Challenges. #100DaysOfCode
