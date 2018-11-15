@@ -40,3 +40,7 @@ I learned how to create a more complex shape using CSS and HTML, how the CSS @ke
 <h2>Day 09</h2>
 
 I learned how bezier curves work, used a bezier curve to move a graphic, and made motion more natural using a bezier curve. The Visual Design Challenges are complete. Now, I am working on Applied Accessibility Challenges. #100DaysOfCode
+
+<h2>Day 10</h2>
+
+I am now working on Applied Accessibility Challenges. I learned when alt text should be left blank, used headings to show hierarchical relationships of content, and jumped straight to the content using the main element. #100DaysOfCode
