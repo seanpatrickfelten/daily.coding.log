@@ -1,4 +1,5 @@
 
+
 # daily.coding.log
 
 These are daily typed entries in the Daily Coding Log for the #100DaysOfCode.
@@ -44,3 +45,7 @@ I learned how bezier curves work, used a bezier curve to move a graphic, and mad
 <h2>Day 10</h2>
 
 I am now working on Applied Accessibility Challenges. I learned when alt text should be left blank, used headings to show hierarchical relationships of content, and jumped straight to the content using the main element. #100DaysOfCode
+
+<h2>Day 11</h2>
+
+Using HTML5 - Made screen reader navigation easier with the header landmark, used the nav landmark, used the footer landmark, improved the accessibility of audio content with the audio element, and improved chart accessibility with the figure element. #100DaysOfCode
