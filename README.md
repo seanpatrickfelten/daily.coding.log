@@ -1,5 +1,6 @@
 
 
+
 # daily.coding.log
 
 These are daily typed entries in the Daily Coding Log for the #100DaysOfCode.
@@ -49,3 +50,7 @@ I am now working on Applied Accessibility Challenges. I learned when alt text sh
 <h2>Day 11</h2>
 
 Using HTML5 - Made screen reader navigation easier with the header landmark, used the nav landmark, used the footer landmark, improved the accessibility of audio content with the audio element, and improved chart accessibility with the figure element. #100DaysOfCode
+
+<h2>Day 12</h2>
+
+Improved form field accessibility with the label element, wrapped radio buttons in a fieldset element, added an accessible date picker, standardized times with HTML5 dateline attribute, and made elements only visible to a screen reader by using custom CSS. #100DaysOfCode
