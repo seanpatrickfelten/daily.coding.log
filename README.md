@@ -54,3 +54,7 @@ Using HTML5 - Made screen reader navigation easier with the header landmark, use
 <h2>Day 12</h2>
 
 Improved form field accessibility with the label element, wrapped radio buttons in a fieldset element, added an accessible date picker, standardized times with HTML5 dateline attribute, and made elements only visible to a screen reader by using custom CSS. #100DaysOfCode
+
+<h2>Day 13</h2>
+
+Improved readability with high contrast text, avoided colorblindness issues by using sufficient contrast, used descriptive link text, made links navigatable with HTML access keys, and used tabindex to add keyboard focus to an element. #100DaysOfCode
