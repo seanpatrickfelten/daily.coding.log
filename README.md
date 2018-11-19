@@ -58,3 +58,7 @@ Improved form field accessibility with the label element, wrapped radio buttons 
 <h2>Day 13</h2>
 
 Improved readability with high contrast text, avoided colorblindness issues by using sufficient contrast, used descriptive link text, made links navigatable with HTML access keys, and used tabindex to add keyboard focus to an element. #100DaysOfCode
+
+<h2>Day 14</h2>
+
+Today, I worked on Responsive Web Design Challenges. I created a media query, made an image responsive, used a retina image for higher resolution displays, and made typography responsive. #100DaysOfCode
