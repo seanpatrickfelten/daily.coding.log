@@ -62,3 +62,7 @@ Improved readability with high contrast text, avoided colorblindness issues by u
 <h2>Day 14</h2>
 
 Today, I worked on Responsive Web Design Challenges. I created a media query, made an image responsive, used a retina image for higher resolution displays, and made typography responsive. #100DaysOfCode
+
+<h2>Day 15</h2>
+
+I am now learning how to use the CSS Flexbox. #100DaysOfCode
