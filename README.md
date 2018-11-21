@@ -66,3 +66,7 @@ Today, I worked on Responsive Web Design Challenges. I created a media query, ma
 <h2>Day 15</h2>
 
 I am now learning how to use the CSS Flexbox. #100DaysOfCode
+
+<h2>Day 16</h2>
+
+Flex position two boxes, added flex superpowers to the tweet embed, used the flex-direction property to make a row, applied the flex-direction property to create rows in the tweet embed, and used the flex-direction property to make a column. #100DaysOfCode
