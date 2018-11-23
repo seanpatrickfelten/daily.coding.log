@@ -17,6 +17,7 @@ Today, I learned the rest of the refresher material on HTML codes by learning ho
 
 <h2>Day 03</h2>
 
+
 I am now learning CSS (Cascading Style Sheets). This involves CSS and CSS elements. So far, I learned how to set an id of an element, changed the background color of a form, adjusting the padding and margin of an element, and adjusting a negative margin. #100DaysOfCode
 
 <h2>Day 04</h2>
@@ -70,3 +71,7 @@ I am now learning how to use the CSS Flexbox. #100DaysOfCode
 <h2>Day 16</h2>
 
 Flex position two boxes, added flex superpowers to the tweet embed, used the flex-direction property to make a row, applied the flex-direction property to create rows in the tweet embed, and used the flex-direction property to make a column. #100DaysOfCode
+
+<h2>Day 17</h2>
+
+Applied the flex-direction property to create a column in the tweet embed, aligned elements using the justify-content property, used the justify-content property in the tweet embed, and aligned elements using the align-items property. #100DaysOfCode
