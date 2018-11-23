@@ -75,3 +75,7 @@ Flex position two boxes, added flex superpowers to the tweet embed, used the fle
 <h2>Day 17</h2>
 
 Applied the flex-direction property to create a column in the tweet embed, aligned elements using the justify-content property, used the justify-content property in the tweet embed, and aligned elements using the align-items property. #100DaysOfCode
+
+<h2>Day 18</h2>
+
+Used the flex-basis property to set the initial size of an item, used the flex shorthand property, used the order property to rearrange items, and used the align-self property. The CSS Flexbox Challenges are now completed. Happy Thanksgiving everyone!!!!! =) #100DaysOfCode
