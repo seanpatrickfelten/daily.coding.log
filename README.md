@@ -1,6 +1,3 @@
-
-
-
 # daily.coding.log
 
 These are daily typed entries in the Daily Coding Log for the #100DaysOfCode.
@@ -79,3 +76,7 @@ Applied the flex-direction property to create a column in the tweet embed, align
 <h2>Day 18</h2>
 
 Used the flex-basis property to set the initial size of an item, used the flex shorthand property, used the order property to rearrange items, and used the align-self property. The CSS Flexbox Challenges are now completed. Happy Thanksgiving everyone!!!!! =) #100DaysOfCode
+
+<h2>Day 19</h2>
+
+Next, I will be learning about CSS Grid Challenges. #100DaysOfCode
