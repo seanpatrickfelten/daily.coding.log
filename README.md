@@ -37,6 +37,7 @@ I learned about z-index, centering an element with margin property, complementar
 
 I learned how to create a more complex shape using CSS and HTML, how the CSS @keyframes and animation properties work, button color changes when mouse is hovering over it, creating movement using CSS animation, fading an element from left to right, and animating elements continually using an infinite animation count. #100DaysOfCode
 
+
 <h2>Day 09</h2>
 
 I learned how bezier curves work, used a bezier curve to move a graphic, and made motion more natural using a bezier curve. The Visual Design Challenges are complete. Now, I am working on Applied Accessibility Challenges. #100DaysOfCode
@@ -80,3 +81,7 @@ Used the flex-basis property to set the initial size of an item, used the flex s
 <h2>Day 19</h2>
 
 Next, I will be learning about CSS Grid Challenges. #100DaysOfCode
+
+<h2>Day 20</h2>
+
+Created a column gap using grid-column-gap, created a row gap using grid-row-gap, added gaps faster with grid-gap, used grid-column to control spacing, and used grid-row to control spacing. #100DaysOfCode
