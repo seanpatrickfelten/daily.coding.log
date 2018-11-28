@@ -44,6 +44,7 @@ I learned how bezier curves work, used a bezier curve to move a graphic, and mad
 
 <h2>Day 10</h2>
 
+
 I am now working on Applied Accessibility Challenges. I learned when alt text should be left blank, used headings to show hierarchical relationships of content, and jumped straight to the content using the main element. #100DaysOfCode
 
 <h2>Day 11</h2>
@@ -85,3 +86,15 @@ Next, I will be learning about CSS Grid Challenges. #100DaysOfCode
 <h2>Day 20</h2>
 
 Created a column gap using grid-column-gap, created a row gap using grid-row-gap, added gaps faster with grid-gap, used grid-column to control spacing, and used grid-row to control spacing. #100DaysOfCode
+
+<h2>Day 21</h2>
+
+Working with CSS Grid Challenges. #100DaysOfCode
+
+<h2>Day 22</h2>
+
+Working with CSS Grid Challenges. #100DaysOfCode
+
+<h2>Day 23</h2>
+
+Working with CSS Grid Challenges. #100DaysOfCode
