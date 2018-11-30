@@ -51,6 +51,7 @@ I am now working on Applied Accessibility Challenges. I learned when alt text sh
 
 Using HTML5 - Made screen reader navigation easier with the header landmark, used the nav landmark, used the footer landmark, improved the accessibility of audio content with the audio element, and improved chart accessibility with the figure element. #100DaysOfCode
 
+
 <h2>Day 12</h2>
 
 Improved form field accessibility with the label element, wrapped radio buttons in a fieldset element, added an accessible date picker, standardized times with HTML5 dateline attribute, and made elements only visible to a screen reader by using custom CSS. #100DaysOfCode
@@ -103,3 +104,7 @@ Working with CSS Grid Challenges. #100DaysOfCode
 <h2>Day 24</h2>
 
 I am working on Responsive Web Design Projects. I am learning how to build a tribute page, a survey form, a product landing page, a technical documentation page, and a personal portfolio page. #100DaysOfCode
+
+<h2>Day 25</h2>
+
+I created a Tribute Page. https://codepen.io/seanpatrickfelten/pen/MzZbgp #100DaysOfCode
