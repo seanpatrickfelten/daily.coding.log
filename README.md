@@ -117,4 +117,4 @@ I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100D
 
 <h2>Day 27</h2>
 
-I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/
+I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/ #100DaysOfCode
