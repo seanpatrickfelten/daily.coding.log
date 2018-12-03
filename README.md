@@ -66,8 +66,7 @@ Improved readability with high contrast text, avoided colorblindness issues by u
 
 
 Today, I worked on Responsive Web Design Challenges. I created a media query, made an image responsive, used a retina image for higher resolution displays, and made typography responsive. #100DaysOfCode
-
-
+>
 <h2>Day 15</h2>
 
 I am now learning how to use the CSS Flexbox. #100DaysOfCode
@@ -121,6 +120,6 @@ I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100D
 I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/ #100DaysOfCode
 
 
-<h2<Day 28</h2>
+<h2>Day 28</h2>
 
 I am learning how to build a Technical Documentation Page. #100DaysOfCode
