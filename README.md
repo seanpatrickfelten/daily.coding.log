@@ -123,3 +123,11 @@ I created a Product Landing Page. The late post exists due to running the tests 
 <h2>Day 28</h2>
 
 I am learning how to build a Technical Documentation Page. #100DaysOfCode
+
+<h2>Day 29</h2>
+
+I created a Technical Documentation Page. https://codepen.io/seanpatrickfelten/full/oQORpo/ #100DaysOfCode
+
+<h2>Day 30</h2>
+
+I am learning how to build a Personal Portfolio Webpage. #100DaysOfCode
