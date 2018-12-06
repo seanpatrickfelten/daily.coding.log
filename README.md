@@ -131,3 +131,7 @@ I created a Technical Documentation Page. https://codepen.io/seanpatrickfelten/f
 <h2>Day 30</h2>
 
 I am learning how to build a Personal Portfolio Webpage. #100DaysOfCode
+
+<h2>Day 31</h2>
+
+Late post - Also battling a cold..... My Portfolio Page has been created!!!!! https://codepen.io/seanpatrickfelten/full/BGgvYQ/ #100DaysOfCode
