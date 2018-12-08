@@ -93,6 +93,7 @@ Created a column gap using grid-column-gap, created a row gap using grid-row-gap
 
 <h2>Day 21</h2>
 
+
 Working with CSS Grid Challenges. #100DaysOfCode
 
 <h2>Day 22</h2>
@@ -139,3 +140,7 @@ Late post - Also battling a cold..... My Portfolio Page has been created!!!!! ht
 <h2>Day 32</h2>
 
 I am now learning about JS or JavaScript. #100DaysOfCode
+
+<h2>Day 33</h2>
+
+I learned how to comment my JavaScript code, declared JavaScript variables, sorted values with the Assignment Operator, and initalized variables with the Assignment Operator. #100DaysOfCode
