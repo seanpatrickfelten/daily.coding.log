@@ -98,6 +98,7 @@ Working with CSS Grid Challenges. #100DaysOfCode
 
 <h2>Day 22</h2>
 
+
 Working with CSS Grid Challenges. #100DaysOfCode
 
 <h2>Day 23</h2>
@@ -144,3 +145,7 @@ I am now learning about JS or JavaScript. #100DaysOfCode
 <h2>Day 33</h2>
 
 I learned how to comment my JavaScript code, declared JavaScript variables, sorted values with the Assignment Operator, and initalized variables with the Assignment Operator. #100DaysOfCode
+
+<h2>Day 34</h2>
+
+In JavaScript, I learned about escaping literal quotes in strings, quoting strings with single quotes, how to escape sequences in strings, and concatenating strings with the Plus Operator. #100DaysOfCode
