@@ -109,6 +109,7 @@ Working with CSS Grid Challenges. #100DaysOfCode
 
 I am working on Responsive Web Design Projects. I am learning how to build a tribute page, a survey form, a product landing page, a technical documentation page, and a personal portfolio page. #100DaysOfCode
 
+
 <h2>Day 25</h2>
 
 I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100DaysOfCode
@@ -153,3 +154,7 @@ In JavaScript, I learned about escaping literal quotes in strings, quoting strin
 <h2>Day 35</h2>
 
 In JavaScript, I learned about concatenating strings with the Plus Equals Operator, constructing strings with variables, appending variables to strings, and finding the length of a string. #100DaysOfCode
+
+<h2>Day 36</h2>
+
+I learned how to access multi-dimension arrays with indexes, manipulate arrays with push(), manuipulate arrays with pop(), manipulate arrays with shift(), and manipulate arrays with unshift(). #100DaysOfCode
