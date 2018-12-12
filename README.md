@@ -114,6 +114,7 @@ I am working on Responsive Web Design Projects. I am learning how to build a tri
 
 I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100DaysOfCode
 
+
 <h2>Day 26</h2>
 
 I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100DaysOfCode
@@ -158,3 +159,7 @@ In JavaScript, I learned about concatenating strings with the Plus Equals Operat
 <h2>Day 36</h2>
 
 I learned how to access multi-dimension arrays with indexes, manipulate arrays with push(), manuipulate arrays with pop(), manipulate arrays with shift(), and manipulate arrays with unshift(). #100DaysOfCode
+
+<h2>Day 37</h2>
+
+Day 37: I learned to write reusbale JavaScript with functions, pasing values to functions with arguments, global scope and functions, local scope and functions, and global vs. local scope in functions. #100DaysOfCode
