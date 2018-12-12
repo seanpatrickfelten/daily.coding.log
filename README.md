@@ -162,4 +162,4 @@ I learned how to access multi-dimension arrays with indexes, manipulate arrays w
 
 <h2>Day 37</h2>
 
-Day 37: I learned to write reusbale JavaScript with functions, pasing values to functions with arguments, global scope and functions, local scope and functions, and global vs. local scope in functions. #100DaysOfCode
+I learned to write reusbale JavaScript with functions, pasing values to functions with arguments, global scope and functions, local scope and functions, and global vs. local scope in functions. #100DaysOfCode
