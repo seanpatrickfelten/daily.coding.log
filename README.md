@@ -119,6 +119,7 @@ I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100D
 
 I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100DaysOfCode
 
+
 <h2>Day 27</h2>
 
 I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/ #100DaysOfCode
@@ -163,3 +164,8 @@ I learned how to access multi-dimension arrays with indexes, manipulate arrays w
 <h2>Day 37</h2>
 
 I learned to write reusbale JavaScript with functions, pasing values to functions with arguments, global scope and functions, local scope and functions, and global vs. local scope in functions. #100DaysOfCode
+
+<h2>Day 38</h2>
+
+Returned a value from a function with return, understanding undefined value returned from a function, assignment with a returned value,
+stand in line, and understanding Boolean values. #100DaysOfCode
