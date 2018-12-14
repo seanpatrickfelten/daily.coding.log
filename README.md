@@ -125,6 +125,7 @@ I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100D
 I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/ #100DaysOfCode
 
 
+
 <h2>Day 28</h2>
 
 I am learning how to build a Technical Documentation Page. #100DaysOfCode
@@ -169,3 +170,7 @@ I learned to write reusbale JavaScript with functions, pasing values to function
 
 Returned a value from a function with return, understanding undefined value returned from a function, assignment with a returned value,
 stand in line, and understanding Boolean values. #100DaysOfCode
+
+<h2>Day 39</h2>
+
+I learned about Golf code, selecting from many options with switch statements, adding a default option in switch statements, multiple identical options in switch statements, and replacing if else chains with switch. #100DaysOfCode
