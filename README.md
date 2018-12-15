@@ -14,7 +14,6 @@ Today, I learned the rest of the refresher material on HTML codes by learning ho
 
 <h2>Day 03</h2>
 
-
 I am now learning CSS (Cascading Style Sheets). This involves CSS and CSS elements. So far, I learned how to set an id of an element, changed the background color of a form, adjusting the padding and margin of an element, and adjusting a negative margin. #100DaysOfCode
 
 <h2>Day 04</h2>
@@ -37,13 +36,11 @@ I learned about z-index, centering an element with margin property, complementar
 
 I learned how to create a more complex shape using CSS and HTML, how the CSS @keyframes and animation properties work, button color changes when mouse is hovering over it, creating movement using CSS animation, fading an element from left to right, and animating elements continually using an infinite animation count. #100DaysOfCode
 
-
 <h2>Day 09</h2>
 
 I learned how bezier curves work, used a bezier curve to move a graphic, and made motion more natural using a bezier curve. The Visual Design Challenges are complete. Now, I am working on Applied Accessibility Challenges. #100DaysOfCode
 
 <h2>Day 10</h2>
-
 
 I am now working on Applied Accessibility Challenges. I learned when alt text should be left blank, used headings to show hierarchical relationships of content, and jumped straight to the content using the main element. #100DaysOfCode
 
@@ -51,12 +48,9 @@ I am now working on Applied Accessibility Challenges. I learned when alt text sh
 
 Using HTML5 - Made screen reader navigation easier with the header landmark, used the nav landmark, used the footer landmark, improved the accessibility of audio content with the audio element, and improved chart accessibility with the figure element. #100DaysOfCode
 
-
-
 <h2>Day 12</h2>
 
 Improved form field accessibility with the label element, wrapped radio buttons in a fieldset element, added an accessible date picker, standardized times with HTML5 dateline attribute, and made elements only visible to a screen reader by using custom CSS. #100DaysOfCode
-
 
 <h2>Day 13</h2>
 
@@ -64,9 +58,8 @@ Improved readability with high contrast text, avoided colorblindness issues by u
 
 <h2>Day 14</h2>
 
-
 Today, I worked on Responsive Web Design Challenges. I created a media query, made an image responsive, used a retina image for higher resolution displays, and made typography responsive. #100DaysOfCode
->
+
 <h2>Day 15</h2>
 
 I am now learning how to use the CSS Flexbox. #100DaysOfCode
@@ -93,11 +86,9 @@ Created a column gap using grid-column-gap, created a row gap using grid-row-gap
 
 <h2>Day 21</h2>
 
-
 Working with CSS Grid Challenges. #100DaysOfCode
 
 <h2>Day 22</h2>
-
 
 Working with CSS Grid Challenges. #100DaysOfCode
 
@@ -109,11 +100,9 @@ Working with CSS Grid Challenges. #100DaysOfCode
 
 I am working on Responsive Web Design Projects. I am learning how to build a tribute page, a survey form, a product landing page, a technical documentation page, and a personal portfolio page. #100DaysOfCode
 
-
 <h2>Day 25</h2>
 
 I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100DaysOfCode
-
 
 <h2>Day 26</h2>
 
@@ -123,8 +112,6 @@ I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100D
 <h2>Day 27</h2>
 
 I created a Product Landing Page. The late post exists due to running the tests to make sure everything works. https://codepen.io/seanpatrickfelten/full/MzLqVY/ #100DaysOfCode
-
-
 
 <h2>Day 28</h2>
 
@@ -174,3 +161,7 @@ stand in line, and understanding Boolean values. #100DaysOfCode
 <h2>Day 39</h2>
 
 I learned about Golf code, selecting from many options with switch statements, adding a default option in switch statements, multiple identical options in switch statements, and replacing if else chains with switch. #100DaysOfCode
+
+<h2>Day 40</h2>
+
+I learned how to return Boolean values from functions, return early pattern for functions, counting cards, built JavaScript objects, and accessed object properties with dot notation. #100DaysOfCode
