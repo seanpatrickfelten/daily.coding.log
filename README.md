@@ -102,6 +102,7 @@ I am working on Responsive Web Design Projects. I am learning how to build a tri
 
 <h2>Day 25</h2>
 
+
 I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100DaysOfCode
 
 <h2>Day 26</h2>
@@ -165,3 +166,7 @@ I learned about Golf code, selecting from many options with switch statements, a
 <h2>Day 40</h2>
 
 I learned how to return Boolean values from functions, return early pattern for functions, counting cards, built JavaScript objects, and accessed object properties with dot notation. #100DaysOfCode
+
+<h2>Day 41</h2>
+
+I learned about accessing nested objects, accessing nested arrays, record collection, iterate with JavaScript while loops, and interate with JavaScript for loops. #100DaysOfCode
