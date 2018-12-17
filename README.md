@@ -126,6 +126,7 @@ I created a Technical Documentation Page. https://codepen.io/seanpatrickfelten/f
 
 I am learning how to build a Personal Portfolio Webpage. #100DaysOfCode
 
+
 <h2>Day 31</h2>
 
 Late post - Also battling a cold..... My Portfolio Page has been created!!!!! https://codepen.io/seanpatrickfelten/full/BGgvYQ/ #100DaysOfCode
@@ -170,3 +171,7 @@ I learned how to return Boolean values from functions, return early pattern for 
 <h2>Day 41</h2>
 
 I learned about accessing nested objects, accessing nested arrays, record collection, iterate with JavaScript while loops, and interate with JavaScript for loops. #100DaysOfCode
+
+<h2>Day 42</h2>
+
+Today, I am working with ES6. I learned to explore differences between the var and let keywords, compare scopes of the var and let keywords, declare a read-only variable with the const keyword, mutate an array declared with const, and prevent object mutation. #100DaysOfCode
