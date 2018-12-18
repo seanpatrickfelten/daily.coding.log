@@ -175,3 +175,7 @@ I learned about accessing nested objects, accessing nested arrays, record collec
 <h2>Day 42</h2>
 
 Today, I am working with ES6. I learned to explore differences between the var and let keywords, compare scopes of the var and let keywords, declare a read-only variable with the const keyword, mutate an array declared with const, and prevent object mutation. #100DaysOfCode
+
+<h2>Day 43</h2>
+
+I learned how to use the spread operator to evaluate arrays in place, use destructuring assignment to assign variables from objects as well as from nested objects, from arrays, and to pass an object as a function's parameters. #100DaysOfCode
