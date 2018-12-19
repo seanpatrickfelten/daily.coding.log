@@ -179,3 +179,7 @@ Today, I am working with ES6. I learned to explore differences between the var a
 <h2>Day 43</h2>
 
 I learned how to use the spread operator to evaluate arrays in place, use destructuring assignment to assign variables from objects as well as from nested objects, from arrays, and to pass an object as a function's parameters. #100DaysOfCode
+
+<h2>Day 44</h2>
+
+Use destructuring assignment to pass an object as a function's parameters, create strings using template literals, write concise object literal declaration using a simple field, and write concise declarative function's with ES6. #100DaysOfCode
