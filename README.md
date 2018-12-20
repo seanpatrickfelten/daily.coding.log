@@ -183,3 +183,7 @@ I learned how to use the spread operator to evaluate arrays in place, use destru
 <h2>Day 44</h2>
 
 Use destructuring assignment to pass an object as a function's parameters, create strings using template literals, write concise object literal declaration using a simple field, and write concise declarative function's with ES6. #100DaysOfCode
+
+<h2>Day 45</h2>
+
+Finishing up ES6, I learned how to use export to reuse a code block, use * to import everything from a file, create an export fallback with export default, and import a default export. #100DaysOfCode
