@@ -131,6 +131,7 @@ I am learning how to build a Personal Portfolio Webpage. #100DaysOfCode
 
 Late post - Also battling a cold..... My Portfolio Page has been created!!!!! https://codepen.io/seanpatrickfelten/full/BGgvYQ/ #100DaysOfCode
 
+
 <h2>Day 32</h2>
 
 I am now learning about JS or JavaScript. #100DaysOfCode
@@ -187,3 +188,7 @@ Use destructuring assignment to pass an object as a function's parameters, creat
 <h2>Day 45</h2>
 
 Finishing up ES6, I learned how to use export to reuse a code block, use * to import everything from a file, create an export fallback with export default, and import a default export. #100DaysOfCode
+
+<h2>Day 46</h2>
+
+I am now learning about the Regular Expression Challenges. #100DaysOfCode
