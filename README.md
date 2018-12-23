@@ -150,6 +150,7 @@ In JavaScript, I learned about concatenating strings with the Plus Equals Operat
 
 <h2>Day 36</h2>
 
+
 I learned how to access multi-dimension arrays with indexes, manipulate arrays with push(), manuipulate arrays with pop(), manipulate arrays with shift(), and manipulate arrays with unshift(). #100DaysOfCode
 
 <h2>Day 37</h2>
@@ -192,3 +193,7 @@ Finishing up ES6, I learned how to use export to reuse a code block, use * to im
 <h2>Day 46</h2>
 
 I am now learning about the Regular Expression Challenges. #100DaysOfCode
+
+<h2>Day 47</h2>
+
+[Late Post Due to Family Emergency] -- I learned about exact matches, find more than the first match, match anything with wildcard period, and match single letter with multiple possibilities. #100DaysOfCode
