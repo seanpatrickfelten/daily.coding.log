@@ -197,3 +197,7 @@ I am now learning about the Regular Expression Challenges. #100DaysOfCode
 <h2>Day 47</h2>
 
 [Late Post Due to Family Emergency] -- I learned about exact matches, find more than the first match, match anything with wildcard period, and match single letter with multiple possibilities. #100DaysOfCode
+
+<h2>Day 48</h2>
+
+I learned to match character that occur zero or more times, find characters with lazy matching, find one or more criminals in a hunt, and match begging string patterns. #100DaysOfCode
