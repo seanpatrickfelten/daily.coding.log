@@ -200,4 +200,28 @@ I am now learning about the Regular Expression Challenges. #100DaysOfCode
 
 <h2>Day 48</h2>
 
-I learned to match character that occur zero or more times, find characters with lazy matching, find one or more criminals in a hunt, and match begging string patterns. #100DaysOfCode
+I learned to match character that occur zero or more times, find characters with lazy matching, find one or more criminals in a hunt, and match beginning string patterns. #100DaysOfCode
+
+<h2>Day 49</h2>
+
+Match all letters and numbers, match everything but letters and numbers, match all numbers, match all non-numbers, restrict possible usernames, match whitespace, and match non-whitespace characters. #100DaysOfCode
+
+<h2>Day 50</h2>
+
+Specify upper and lower number of matches, specify only the lower number of matches, specify exact number of matches, and check for all or none.
+
+<h2>Day 51</h2>
+
+Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end.
+
+<h2>Day 52</h2>
+
+I just finished up Regular Expressions. Now, I will be learning about Debugging.
+
+<h2>Day 53</h2>
+
+Use the JavaScript console to check the value of a variable and understanding the differences between the freeCodeCamp and Browser console.
+
+<h2>Day 54</h2>
+
+Use typeof to check the type of variable, catch misspelled variable and function names, catch unclosed parentheses, brackets, braces, and quotes, and catch mixed usage of single and double quotes.
