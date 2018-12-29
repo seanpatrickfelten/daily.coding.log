@@ -225,3 +225,7 @@ Use the JavaScript console to check the value of a variable and understanding th
 <h2>Day 54</h2>
 
 Use typeof to check the type of variable, catch misspelled variable and function names, catch unclosed parentheses, brackets, braces, and quotes, and catch mixed usage of single and double quotes.
+
+<h2>Day 55</h2>
+
+I learned to catch use of assignment operator instead of equality operator and catch missing open and closing parenthesis after a function call.
