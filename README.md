@@ -176,6 +176,7 @@ I learned about accessing nested objects, accessing nested arrays, record collec
 
 <h2>Day 42</h2>
 
+
 Today, I am working with ES6. I learned to explore differences between the var and let keywords, compare scopes of the var and let keywords, declare a read-only variable with the const keyword, mutate an array declared with const, and prevent object mutation. #100DaysOfCode
 
 <h2>Day 43</h2>
@@ -185,6 +186,7 @@ I learned how to use the spread operator to evaluate arrays in place, use destru
 <h2>Day 44</h2>
 
 Use destructuring assignment to pass an object as a function's parameters, create strings using template literals, write concise object literal declaration using a simple field, and write concise declarative function's with ES6. #100DaysOfCode
+
 
 <h2>Day 45</h2>
 
@@ -229,3 +231,7 @@ Use typeof to check the type of variable, catch misspelled variable and function
 <h2>Day 55</h2>
 
 I learned to catch use of assignment operator instead of equality operator and catch missing open and closing parenthesis after a function call.
+
+<h2>Day 56</h2>
+
+Finishing up the Debugging Challenges, I used caution when reinitializing variables inside a loop and prevented infinite loops with a valid terminal condition. Next, I will be learning Basic Data Structure Challenges.
