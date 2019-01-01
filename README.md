@@ -193,6 +193,7 @@ Use destructuring assignment to pass an object as a function's parameters, creat
 Finishing up ES6, I learned how to use export to reuse a code block, use * to import everything from a file, create an export fallback with export default, and import a default export. #100DaysOfCode
 
 
+
 <h2>Day 46</h2>
 
 I am now learning about the Regular Expression Challenges. #100DaysOfCode
@@ -240,3 +241,7 @@ Finishing up the Debugging Challenges, I used caution when reinitializing variab
 <h2>Day 57</h2>
 
 Add items to an array with push() and unshift(), remove items from an array with pop() and shift(), remove items using splice(), and add items using splice().
+
+<h2>Day 58</h2>
+
+Iterate through all an array's items using for loops, create complex multi-dimensional arrays, add key-value pairs to JavaScript objects, and modify an object nested within an object.
