@@ -245,3 +245,7 @@ Add items to an array with push() and unshift(), remove items from an array with
 <h2>Day 58</h2>
 
 Iterate through all an array's items using for loops, create complex multi-dimensional arrays, add key-value pairs to JavaScript objects, and modify an object nested within an object.
+
+<h2>Day 59</h2>
+
+Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string.
