@@ -249,3 +249,10 @@ Iterate through all an array's items using for loops, create complex multi-dimen
 <h2>Day 59</h2>
 
 Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string.
+
+<h2>Day 60</h2>
+
+Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer.
+
+<h2>Day 61</h2>
+
