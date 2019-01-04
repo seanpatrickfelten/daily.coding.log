@@ -213,7 +213,7 @@ Match all letters and numbers, match everything but letters and numbers, match a
 <h2>Day 50</h2>
 
 Specify upper and lower number of matches, specify only the lower number of matches, specify exact number of matches, and check for all or none.
-
+Object Oriented Programming Challenges begin. Create a basic JavaScript object, use dot notation to access the properties of an object, create a method on an object, and make code more reusable with the this keyword.
 <h2>Day 51</h2>
 
 Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end.
@@ -255,4 +255,8 @@ Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a st
 Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer.
 
 <h2>Day 61</h2>
+
+Object Oriented Programming Challenges begin. Create a basic JavaScript object, use dot notation to access the properties of an object, create a method on an object, and make code more reusable with the this keyword.
+
+<h2>Day 62</h2>
 
