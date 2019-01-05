@@ -102,13 +102,11 @@ I am working on Responsive Web Design Projects. I am learning how to build a tri
 
 <h2>Day 25</h2>
 
-
 I created a Tribute Page. https://codepen.io/seanpatrickfelten/full/MzZbgp #100DaysOfCode
 
 <h2>Day 26</h2>
 
 I created a Survey Page. https://codepen.io/seanpatrickfelten/full/pQGjyL/ #100DaysOfCode
-
 
 <h2>Day 27</h2>
 
@@ -126,11 +124,9 @@ I created a Technical Documentation Page. https://codepen.io/seanpatrickfelten/f
 
 I am learning how to build a Personal Portfolio Webpage. #100DaysOfCode
 
-
 <h2>Day 31</h2>
 
 Late post - Also battling a cold..... My Portfolio Page has been created!!!!! https://codepen.io/seanpatrickfelten/full/BGgvYQ/ #100DaysOfCode
-
 
 <h2>Day 32</h2>
 
@@ -149,7 +145,6 @@ In JavaScript, I learned about escaping literal quotes in strings, quoting strin
 In JavaScript, I learned about concatenating strings with the Plus Equals Operator, constructing strings with variables, appending variables to strings, and finding the length of a string. #100DaysOfCode
 
 <h2>Day 36</h2>
-
 
 I learned how to access multi-dimension arrays with indexes, manipulate arrays with push(), manuipulate arrays with pop(), manipulate arrays with shift(), and manipulate arrays with unshift(). #100DaysOfCode
 
@@ -176,7 +171,6 @@ I learned about accessing nested objects, accessing nested arrays, record collec
 
 <h2>Day 42</h2>
 
-
 Today, I am working with ES6. I learned to explore differences between the var and let keywords, compare scopes of the var and let keywords, declare a read-only variable with the const keyword, mutate an array declared with const, and prevent object mutation. #100DaysOfCode
 
 <h2>Day 43</h2>
@@ -187,12 +181,9 @@ I learned how to use the spread operator to evaluate arrays in place, use destru
 
 Use destructuring assignment to pass an object as a function's parameters, create strings using template literals, write concise object literal declaration using a simple field, and write concise declarative function's with ES6. #100DaysOfCode
 
-
 <h2>Day 45</h2>
 
 Finishing up ES6, I learned how to use export to reuse a code block, use * to import everything from a file, create an export fallback with export default, and import a default export. #100DaysOfCode
-
-
 
 <h2>Day 46</h2>
 
@@ -212,51 +203,55 @@ Match all letters and numbers, match everything but letters and numbers, match a
 
 <h2>Day 50</h2>
 
-Specify upper and lower number of matches, specify only the lower number of matches, specify exact number of matches, and check for all or none.
-Object Oriented Programming Challenges begin. Create a basic JavaScript object, use dot notation to access the properties of an object, create a method on an object, and make code more reusable with the this keyword.
+Specify upper and lower number of matches, specify only the lower number of matches, specify exact number of matches, and check for all or none. #100DaysOfCode
+
 <h2>Day 51</h2>
 
-Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end.
+Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end. #100DaysOfCode
 
 <h2>Day 52</h2>
 
-I just finished up Regular Expressions. Now, I will be learning about Debugging.
+I just finished up Regular Expressions. Now, I will be learning about Debugging. #100DaysOfCode
 
 <h2>Day 53</h2>
 
-Use the JavaScript console to check the value of a variable and understanding the differences between the freeCodeCamp and Browser console.
+Use the JavaScript console to check the value of a variable and understanding the differences between the freeCodeCamp and Browser console. #100DaysOfCode
 
 <h2>Day 54</h2>
 
-Use typeof to check the type of variable, catch misspelled variable and function names, catch unclosed parentheses, brackets, braces, and quotes, and catch mixed usage of single and double quotes.
+Use typeof to check the type of variable, catch misspelled variable and function names, catch unclosed parentheses, brackets, braces, and quotes, and catch mixed usage of single and double quotes. #100DaysOfCode
 
 <h2>Day 55</h2>
 
-I learned to catch use of assignment operator instead of equality operator and catch missing open and closing parenthesis after a function call.
+I learned to catch use of assignment operator instead of equality operator and catch missing open and closing parenthesis after a function call. #100DaysOfCode
 
 <h2>Day 56</h2>
 
-Finishing up the Debugging Challenges, I used caution when reinitializing variables inside a loop and prevented infinite loops with a valid terminal condition. Next, I will be learning Basic Data Structure Challenges.
+Finishing up the Debugging Challenges, I used caution when reinitializing variables inside a loop and prevented infinite loops with a valid terminal condition. Next, I will be learning Basic Data Structure Challenges. #100DaysOfCode
 
 <h2>Day 57</h2>
 
-Add items to an array with push() and unshift(), remove items from an array with pop() and shift(), remove items using splice(), and add items using splice().
+Add items to an array with push() and unshift(), remove items from an array with pop() and shift(), remove items using splice(), and add items using splice(). #100DaysOfCode
 
 <h2>Day 58</h2>
 
-Iterate through all an array's items using for loops, create complex multi-dimensional arrays, add key-value pairs to JavaScript objects, and modify an object nested within an object.
+Iterate through all an array's items using for loops, create complex multi-dimensional arrays, add key-value pairs to JavaScript objects, and modify an object nested within an object. #100DaysOfCode
 
 <h2>Day 59</h2>
 
-Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string.
+Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string. #100DaysOfCode
 
 <h2>Day 60</h2>
 
-Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer.
+Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer. #100DaysOfCode
 
 <h2>Day 61</h2>
 
-Object Oriented Programming Challenges begin. Create a basic JavaScript object, use dot notation to access the properties of an object, create a method on an object, and make code more reusable with the this keyword.
+Object Oriented Programming Challenges begin. Create a basic JavaScript object, use dot notation to access the properties of an object, create a method on an object, and make code more reusable with the this keyword. #100DaysOfCode
 
 <h2>Day 62</h2>
+
+Understand own properties, use prototype properties to reduce duplicate code, iterate over all properties, and understand the constructor property. #100DaysOfCode
+
+<h2>Day 63</h2>
 
