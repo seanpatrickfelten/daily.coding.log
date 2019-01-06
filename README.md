@@ -207,7 +207,7 @@ Specify upper and lower number of matches, specify only the lower number of matc
 
 <h2>Day 51</h2>
 
-Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end. #100DaysOfCode
+Change the prototype to a new object, remember to set the constructor property when changing the prototype, understand where an object's prototype comes from, and understand the prototype chain.Positive and negative lookahead, reuse patterns using capture groups, use capture groups to search and replace, and remove whitespace from start and end. #100DaysOfCode
 
 <h2>Day 52</h2>
 
@@ -254,4 +254,8 @@ Object Oriented Programming Challenges begin. Create a basic JavaScript object, 
 Understand own properties, use prototype properties to reduce duplicate code, iterate over all properties, and understand the constructor property. #100DaysOfCode
 
 <h2>Day 63</h2>
+
+Change the prototype to a new object, remember to set the constructor property when changing the prototype, understand where an object's prototype comes from, and understand the prototype chain. #100DaysOfCode
+
+<h2>Day 64</h2>
 
