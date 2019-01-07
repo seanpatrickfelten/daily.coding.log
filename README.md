@@ -259,3 +259,7 @@ Change the prototype to a new object, remember to set the constructor property w
 
 <h2>Day 64</h2>
 
+Use inheritance so you don't repeat yourself, inherit behaviors from a supertype, set the child's prototype to an instance of the parent, and reset an inherited constructor property.
+
+<h2>Day 65</h2>
+
