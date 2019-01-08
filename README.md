@@ -263,3 +263,7 @@ Use inheritance so you don't repeat yourself, inherit behaviors from a supertype
 
 <h2>Day 65</h2>
 
+[Late Post] - Now, onto Functional Programming. // Learn about functional programming, understanding functional programming technology, understand the hazards of using imperative code, and avoid mutations and side effects using functional programming.
+
+<h2>Day 66</h2>
+
