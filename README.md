@@ -259,11 +259,11 @@ Change the prototype to a new object, remember to set the constructor property w
 
 <h2>Day 64</h2>
 
-Use inheritance so you don't repeat yourself, inherit behaviors from a supertype, set the child's prototype to an instance of the parent, and reset an inherited constructor property.
+Use inheritance so you don't repeat yourself, inherit behaviors from a supertype, set the child's prototype to an instance of the parent, and reset an inherited constructor property. #100DaysOfCode
 
 <h2>Day 65</h2>
 
-[Late Post] - Now, onto Functional Programming. // Learn about functional programming, understanding functional programming technology, understand the hazards of using imperative code, and avoid mutations and side effects using functional programming.
+[Late Post] - Now, onto Functional Programming. // Learn about functional programming, understanding functional programming technology, understand the hazards of using imperative code, and avoid mutations and side effects using functional programming. #100DaysOfCode
 
 <h2>Day 66</h2>
 
