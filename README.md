@@ -201,7 +201,7 @@ I learned to match character that occur zero or more times, find characters with
 
 Match all letters and numbers, match everything but letters and numbers, match all numbers, match all non-numbers, restrict possible usernames, match whitespace, and match non-whitespace characters. #100DaysOfCode
 
-<h2>Day 50</h2>
+Pass arguments to avoid external dependence in a function, refractor global variables out of functions, use the map method to extract data from an array, and implement the filter method on a prototype.<h2>Day 50</h2>
 
 Specify upper and lower number of matches, specify only the lower number of matches, specify exact number of matches, and check for all or none. #100DaysOfCode
 
@@ -267,3 +267,4 @@ Use inheritance so you don't repeat yourself, inherit behaviors from a supertype
 
 <h2>Day 66</h2>
 
+Pass arguments to avoid external dependence in a function, refractor global variables out of functions, use the map method to extract data from an array, and implement the filter method on a prototype. #100DaysOfCode
