@@ -268,3 +268,10 @@ Use inheritance so you don't repeat yourself, inherit behaviors from a supertype
 <h2>Day 66</h2>
 
 Pass arguments to avoid external dependence in a function, refractor global variables out of functions, use the map method to extract data from an array, and implement the filter method on a prototype. #100DaysOfCode
+
+<h2>Day 67</h2>
+
+Return part of an array using the slice method, remove elements from an array using slice instead of splice, combine two arrays using the concat method, and add elements to the end of an array using concat instead of push.
+
+<h2>Day 68</h2>
+
