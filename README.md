@@ -233,7 +233,7 @@ Finishing up the Debugging Challenges, I used caution when reinitializing variab
 
 Add items to an array with push() and unshift(), remove items from an array with pop() and shift(), remove items using splice(), and add items using splice(). #100DaysOfCode
 
-<h2>Day 58</h2>
+ <h2>Day 58</h2>
 
 Iterate through all an array's items using for loops, create complex multi-dimensional arrays, add key-value pairs to JavaScript objects, and modify an object nested within an object. #100DaysOfCode
 
@@ -271,7 +271,15 @@ Pass arguments to avoid external dependence in a function, refractor global vari
 
 <h2>Day 67</h2>
 
-Return part of an array using the slice method, remove elements from an array using slice instead of splice, combine two arrays using the concat method, and add elements to the end of an array using concat instead of push.
+Return part of an array using the slice method, remove elements from an array using slice instead of splice, combine two arrays using the concat method, and add elements to the end of an array using concat instead of push. #100DaysOfCode
 
 <h2>Day 68</h2>
+
+Use the reduce method to analyze data, sort an array alphabetically using the sort method, retrurn a sorted array without changing the original array, and split a string into an array using the split method. #100DaysOfCode
+
+<h2>Day 69</h2>
+
+The next set of challenges that I will be learning are the Intermediate Algorithm Scripting Challenges. #100DaysOfCode
+
+<h2>Day 70</h2>
 
