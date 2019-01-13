@@ -228,7 +228,7 @@ I learned to catch use of assignment operator instead of equality operator and c
 <h2>Day 56</h2>
 
 Finishing up the Debugging Challenges, I used caution when reinitializing variables inside a loop and prevented infinite loops with a valid terminal condition. Next, I will be learning Basic Data Structure Challenges. #100DaysOfCode
-
+The challenges involved Spinal Tap Case, Pig Latin, Search and Replace, and DNA Pairing.
 <h2>Day 57</h2>
 
 Add items to an array with push() and unshift(), remove items from an array with pop() and shift(), remove items using splice(), and add items using splice(). #100DaysOfCode
@@ -283,3 +283,4 @@ The next set of challenges that I will be learning are the Intermediate Algorith
 
 <h2>Day 70</h2>
 
+The challenges involved Spinal Tap Case, Pig Latin, Search and Replace, and DNA Pairing. #100DaysOfCode
