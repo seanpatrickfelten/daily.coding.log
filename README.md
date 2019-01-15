@@ -244,6 +244,7 @@ Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a st
 
 <h2>Day 60</h2>
 
+
 Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer. #100DaysOfCode
 
 <h2>Day 61</h2>
@@ -289,3 +290,10 @@ The challenges involved Spinal Tap Case, Pig Latin, Search and Replace, and DNA 
 <h2>Day 71</h2>
 
 The challenges involved Binary Agents, Everything Be True, Arguments Optional, Make a Person, and Map the Debris. #100DaysOfCode
+
+<h2>Day 72</h2
+ 
+[Late Post] - Introduction to the Javascript Algorithms and Data Structures // Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. #100DaysOfCode
+
+<h2>Day 73</h2>
+
