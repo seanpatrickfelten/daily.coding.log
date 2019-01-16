@@ -253,7 +253,7 @@ Object Oriented Programming Challenges begin. Create a basic JavaScript object, 
 
 <h2>Day 62</h2>
 
-Understand own properties, use prototype properties to reduce duplicate code, iterate over all properties, and understand the constructor property. #100DaysOfCode
+The next set of challenges are the Boostrap ChallengesUnderstand own properties, use prototype properties to reduce duplicate code, iterate over all properties, and understand the constructor property. #100DaysOfCode
 
 <h2>Day 63</h2>
 
@@ -296,4 +296,8 @@ The challenges involved Binary Agents, Everything Be True, Arguments Optional, M
 [Late Post] - Introduction to the Javascript Algorithms and Data Structures // Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. #100DaysOfCode
 
 <h2>Day 73</h2>
+
+The next set of challenges are the Boostrap Challenges. #100DaysOfCode
+
+<h2>Day 74</h2>
 
