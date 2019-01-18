@@ -239,11 +239,9 @@ Iterate through all an array's items using for loops, create complex multi-dimen
 
 <h2>Day 59</h2>
 
-Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string. #100DaysOfCode
-
+Use the Bootstrap Grid to put elements side by side, ditch custom CSS for Bootstrap, use a span to target inline elements, and create a custom heading. Basic Algorithm Scripting starts now. Convert Celsius to Farenheit, reverse a string, factorialize a number, and find the longest word in a string. #100DaysOfCode
 
 <h2>Day 60</h2>
-
 
 Finders Keepers, Boo who, Title case a sentence, slice and splice, and falsy bouncer. #100DaysOfCode
 
@@ -300,4 +298,12 @@ The challenges involved Binary Agents, Everything Be True, Arguments Optional, M
 The next set of challenges are the Boostrap Challenges. #100DaysOfCode
 
 <h2>Day 74</h2>
+
+Use the Bootstrap Grid to put elements side by side, ditch custom CSS for Bootstrap, use a span to target inline elements, and create a custom heading. #100DaysOfCode
+
+<h2>Day 75</h2>
+
+Use the Bootstrap Grid to put elements side by side, ditch custom CSS for Bootstrap, use a span to target inline elements, and create a custom heading. #100DaysOfCode
+
+<h2>Day 76</h2>
 
