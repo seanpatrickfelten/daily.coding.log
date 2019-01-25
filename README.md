@@ -307,3 +307,31 @@ Use the Bootstrap Grid to put elements side by side, ditch custom CSS for Bootst
 
 <h2>Day 76</h2>
 
+Style text inputs as controls, line up form elements responsively with Bootstrap, create a Boostrap headline, and house our page within a Bootstrap container-fluid div. #100DaysOfCode
+
+<h2>Day 77</h2>
+
+Create a Bootstrap row, split your Bootstrap row, create Bootstrap wells, and add elements within your Bootstrap wells. #100DaysOfCode
+
+<h2>Day 78</h2>
+
+[Late Post] - In jQuery now and learned to target the same element with multiple jQuery selectors, remove classes from an element with jQuery, change the CSS of an element using jQuery, and disable an element using jQuery. #100DaysOfCode
+
+<h2>Day 79</h2>
+
+[Late Post] - Change text inside an element using jQuery, remove an element using jQuery, use appendTo to move elements with jQuery, and clone an element using jQuery. #100DaysOfCode
+
+<h2>Day 80</h2>
+
+I am now working on the Sass Challenges (Synthetically Awesome StyleSheets). Store data with Sass variables, nest CSS with Sass, create reusable CSS with Mixins, and use @if and @else to add logic to your styles. #100DaysOfCode
+
+<h2>Day 81</h2>
+
+Use @for to create a Sass Loop, use @each to map over items in a list, apply a style until a conditionis met with @while, split your styles into smaller chunks with partials, and extend one set of CSS styles to another element. #100DaysOfCode
+
+<h2>Day 82</h2>
+
+React Challenges // Define an HTML class in JSX, learn about self-closing JSX tags, create a stateless functional component, create a React component, and create a component with composition.
+
+<h2>Day 83</h2>
+
